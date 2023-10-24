@@ -1,3 +1,8 @@
+Hey, Am Randy Paulus this is an E-commerce website about "Shoes", this is only the front-end. I made this
+possible with React.js, HTML, CSS, and Javascript.
+
+Hope you like it :D
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
